@@ -1,0 +1,7 @@
+Introduction 
+A crime can happen anytime and anywhere without any warning. Sometimes it can happen in the same place and at the same reoccuring time. I think it would be great if we can predict where and when the crime is going to be and we can prevent it before it happened. By using artificial inteligence and machine learning from historical data, we could build a classifier to make a prediction out of it. So in this project I will try to train a model using naive bayes classification algorithm to predict a crime that is going to happen around manhattan on january 2020. Naive bayes is a classification algorithm that use a probability blabla. Hopefully, someone will be interested on this matter of research and conduct any further research using more powerful algorithm and state of the art method. It will be very helpful for the law enforcer to handle the crime in the area.
+
+Data Description
+> nyu-geojson data to retrieve the neighborhood latitude and longitude
+> foursquare api to retrieve the venues around the neighborhood
+> NYPD complaint data on year range from 2015 – 2019
